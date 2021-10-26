@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/view-all", (function(a){return {data:[{}],fetch:{},mutations:[[a,{name:"greeting",value:"evening"}],[a,{path:"header",value:{text:"Undefined",showOnMobile:true}}]]}}("UPDATE_")));
