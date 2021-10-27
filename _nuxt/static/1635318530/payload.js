@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", (function(a){return {data:[{}],fetch:{},mutations:[[a,{name:"greeting",value:"morning"}],[a,{path:"text",value:"Explore",innerPath:"header"}]]}}("UPDATE_")));
