@@ -1126,7 +1126,9 @@ export function loadingPage(h) {
         [
           div({
             staticClass: 'spinner'
-          }),
+          }, [
+            ['dot1','dot2'].map(x=>div({class:x}))
+          ]),
 
           div(
             {
