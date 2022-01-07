@@ -1519,7 +1519,7 @@ animation: sk-rotate 2s infinite linear;
   display: inline-block;
   position: absolute;
   top: 0;
-  background-color: var(--secondary);
+  background-color: var(--primary);
   border-radius: 100%;
 
   -webkit-animation: sk-bounce 2s infinite ease-in-out;
