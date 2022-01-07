@@ -1,4 +1,4 @@
-# nina-recipes
+# Nina recipes
 
 ## Build Setup
 
