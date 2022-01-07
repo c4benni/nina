@@ -316,7 +316,8 @@ export default {
           div({
             attrs: { ...scoping },
             staticClass: 'spinner page',
-          }),
+},[ ['dot1','dot2'].map(x=>div({class:x})) ]),
+
 
           h2(
             {

@@ -211,7 +211,8 @@ export default {
                       : div({
                           attrs: { ...scoping },
                           staticClass: 'spinner',
-                        }),
+},[ ['dot1','dot2'].map(x=>div({class:x})) ]),
+
                     h2(
                       {
                         attrs: { ...scoping },

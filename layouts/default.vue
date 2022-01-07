@@ -633,7 +633,8 @@ href:'https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0
               [
                 div({
                   staticClass: 'primary-text spinner',
-                }),
+},[ ['dot1','dot2'].map(x=>div({class:x})) ]),
+
                 h(
                   'h2',
                   {
