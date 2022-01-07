@@ -280,6 +280,9 @@ export default {
   height: var(--img-height) !important;
 }
 
+.md-up .parallax-page-header{ max-width: 1000px; margin-top: 1rem;
+border-radius: .5rem; }
+
 .sm-down .parallax-page-header {
   position: fixed !important;
 }

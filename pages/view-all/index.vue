@@ -673,7 +673,8 @@ export default {
 }
 
 .md-up .items-wrap[data-p-v-ix] {
-  --view-port: 25%;
+--view-port: 33%; max-width: 1000px;
+
 }
 
 .items-wrap[data-p-v-ix] .title[data-mcd] {

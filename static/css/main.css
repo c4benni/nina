@@ -138,7 +138,8 @@
 }
 
 :root.dark-theme {
-  --theme-surface: #000;
+--theme-surface: rgb(11, 11, 11);
+
   --theme-inner-surface: rgb(15, 15, 15);
   --theme-surface-text: var(--body-c);
   --theme-primary: #181818;
@@ -466,7 +467,8 @@ html.light-theme {
   /* --default-font-family: -apple-system, 'Segoe UI', 'Noto Sans', sans-serif; */
   /* --default-font-family: 'Bitter', sans-serif; */
 
-  --default-font-family: 'Work sans', sans-serif;
+--default-font-family: 'Barlow Semi Condensed', sans-serif;
+
 
   /* --default-font-family: 'Montserrat', sans-serif; */
 

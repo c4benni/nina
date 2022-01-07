@@ -504,6 +504,8 @@ export default {
   width: 100%;
   max-width: 660px;
   height: 350px;
+border-radius: .5rem;
+
 }
 
 .can-hover
